@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AgoraPubNubDemo</string>
+
+    <string name="pubNub_sub_key">sub-c-a78cb41c-e72c-11ea-9d1c-16efd2dbfec5</string>
+    <string name="pubNub_pub_key">pub-c-e8e1b72b-2f5d-49cc-a546-cb3944d8b92d</string>
+
+    <string name="agora_app_id">808f14eae6d24d3384f951134619c258</string>
+    <string name="agora_token"></string>
+</resources>
