@@ -1,4 +1,4 @@
-# [ARCHIVED] AgoraPubNubDemo
+# [ARCHIVED] Agora PubNub Demo for Android
 
 **⚠️ This project is no longer maintained and has been archived.**  
 Please note that this repository is now in a read-only state and will not receive any further updates or support.
